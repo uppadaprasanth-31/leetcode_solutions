@@ -19,9 +19,18 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0027-remove-element) |
+| [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
