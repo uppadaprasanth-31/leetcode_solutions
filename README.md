@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0392-is-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
