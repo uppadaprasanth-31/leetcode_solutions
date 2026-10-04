@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 ## String
 |  |
@@ -45,6 +46,7 @@
 | [0058-length-of-last-word](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [1768-merge-strings-alternately](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
@@ -72,4 +74,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
