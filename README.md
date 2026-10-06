@@ -23,6 +23,7 @@
 | [0027-remove-element](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0344-reverse-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -83,4 +86,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
