@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
