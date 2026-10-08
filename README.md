@@ -25,6 +25,7 @@
 | [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
