@@ -27,6 +27,7 @@
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0326-power-of-three) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
