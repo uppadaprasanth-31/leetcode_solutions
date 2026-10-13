@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
