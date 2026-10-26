@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0136-single-number](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0136-single-number) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
@@ -40,6 +42,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -121,4 +124,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
