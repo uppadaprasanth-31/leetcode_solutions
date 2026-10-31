@@ -31,6 +31,7 @@
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Recursion
 |  |
 | ------- |
