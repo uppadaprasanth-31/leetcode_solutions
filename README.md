@@ -30,6 +30,7 @@
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -53,6 +54,7 @@
 | [0001-two-sum](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
@@ -64,6 +66,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/3110-score-of-a-string) |
@@ -101,12 +104,14 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
