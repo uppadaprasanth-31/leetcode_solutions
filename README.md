@@ -35,6 +35,7 @@
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
