@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0326-power-of-three) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
