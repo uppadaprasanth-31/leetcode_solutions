@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
@@ -29,6 +30,7 @@
 | [0027-remove-element](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0136-single-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -48,6 +50,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -57,6 +60,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -145,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
