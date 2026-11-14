@@ -34,6 +34,7 @@
 | [0500-keyboard-row](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0832-flipping-an-image](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -151,8 +152,13 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uppadaprasanth-31/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
